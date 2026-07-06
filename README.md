@@ -1,9 +1,9 @@
 ## Welcome to Xiaotian Hao's Home Pages
 
-I received the B.E. degree from Nankai University in 2016, and the Ph.D. degree from Peking University in Jan. 2022. I joined PCG, Tencent in Feb. 2022. My research interests includes mulitmedia retrieval, object re-identification, and deep metric learning.
-
-I received the B.E. degree from [Tianjin University](http://www.tju.edu.cn/) in 2016, and
-                            now is a 4-th year Ph.D. candidate. My research interests include **Reinforcement Learning, Multiagent System, and Combinatorial Optimization**.
+I received the Ph.D. degree from the [Deep Reinforcement Learning (DRL) Lab](http://www.icdai.org/index.html) in 2024, supervised by Prof. Jianye Hao. 
+                            Currently, I am a researcher at Douyin, focusing on reinforcement learning (RL) and large language models (LLMs) for recommender systems. 
+                            My research interests include **Reinforcement Learning, Multi-agent Systems, Large Language Models (LLMs), Combinatorial Optimization and Recommender Systems**.
+                        
 
 Homepage: https://tjuhaoxiaotian.github.io/
 
